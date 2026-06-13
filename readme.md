@@ -2,6 +2,7 @@
 # Attakai (暖かい)
 
 **A warm, cozy, and minimalist Hyprland configuration.**
+**Stop attacking me, yes the readme is obviously AI**
 
 `Attakai` means "warm" in Japanese — this rice aims for a comfortable, productive desktop with soft color palettes, subtle animations, and rounded visuals.
 
